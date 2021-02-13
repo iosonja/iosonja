@@ -1,4 +1,4 @@
-![Header](https://github.com/iosonja/iosonja/blob/main/header.jpg "Header")
+![Header](https://github.com/iosonja/iosonja/blob/main/Header.png "Header")
 
 <!--
 **iosonja/iosonja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
