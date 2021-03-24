@@ -7,7 +7,7 @@ Hello, I'm Sonja! In the daytime I'm a computer science student in University of
 
 Hit me up on Twitter: [@iosonja](https://twitter.com/iosonja)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iosonja&layout=compact)](https://github.com/iosonja/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iosonja&layout=compact&langs_count=6)](https://github.com/iosonja/github-readme-stats)
 
 <!--
 [![iosonja's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iosonja)](https://github.com/iosonja/github-readme-stats)
