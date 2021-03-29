@@ -1,7 +1,7 @@
 ![Header](https://github.com/iosonja/iosonja/blob/main/ghheader.png "Header")
 
 Hello, I'm Sonja! In the daytime I'm a computer science student in University of Helsinki and in the evenings I build iOS and watchOS apps. Currently I am...
-- 🌱 learning UIKit, React and Spring
+- 🌱 learning UIKit and React
 - 📱 building [an iOS app](https://github.com/iosonja/dog-training-scheduler) for keeping track of dog training sessions
 - 🇫🇮 working on Finnish translations for [freeCodeCamp.org](https://www.freecodecamp.org)
 - 👣 looking for a mentor working in the iOS field! 
