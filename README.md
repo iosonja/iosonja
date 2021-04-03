@@ -1,10 +1,9 @@
 ![Header](https://github.com/iosonja/iosonja/blob/main/ghheader.png "Header")
 
 Hello, I'm Sonja! In the daytime I'm a computer science student in University of Helsinki and in the evenings I build iOS and watchOS apps. Currently I am...
-- 🌱 learning UIKit and React
+- 🌱 learning React
 - 🐩 building an [iOS app](https://github.com/iosonja/dog-training-scheduler) for keeping track of dog training sessions
 - 🐍 tinkering with a [Pygame app](https://github.com/iosonja/ot-harjoitustyo) for learning International Phonetic Alphabet classification
-- 🇫🇮 working on Finnish translations for [freeCodeCamp.org](https://www.freecodecamp.org)
 - 👣 looking for a mentor working in the iOS field! 
 
 Hit me up on Twitter: [@iosonja](https://twitter.com/iosonja)
@@ -12,6 +11,7 @@ Hit me up on Twitter: [@iosonja](https://twitter.com/iosonja)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iosonja&layout=compact&langs_count=6)](https://github.com/iosonja/github-readme-stats)<br>
 The statistics above are created with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by Anurag Hazra.
 <!--
+This link doesn't work: 
 [![iosonja's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iosonja)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 ### Technologies I use
