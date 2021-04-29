@@ -10,7 +10,6 @@ Hit me up on Twitter: [@iosonja](https://twitter.com/iosonja)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iosonja&layout=compact&langs_count=6)](https://github.com/iosonja/github-readme-stats)<br>
 The statistics above are created with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by Anurag Hazra.
 
-[![iosonja's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iosonja)](https://github.com/anuraghazra/github-readme-stats)<br>
 <!--
 ### Technologies I use
 
