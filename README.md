@@ -1,4 +1,4 @@
-![Header](https://github.com/iosonja/iosonja/blob/main/ghheader.png "Header")
+<!-- ![Header](https://github.com/iosonja/iosonja/blob/main/ghheader.png "Header") -->
 
 Hello, I'm Sonja! In the daytime I'm a computer science student in University of Helsinki and in the evenings I build iOS and watchOS apps. Currently I am...
 - 🌱 learning React & Node – see my progress [here](https://github.com/iosonja/fullstack-exercises)!
