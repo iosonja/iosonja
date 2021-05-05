@@ -1,9 +1,8 @@
 <!-- ![Header](https://github.com/iosonja/iosonja/blob/main/ghheader.png "Header") -->
 
-Hello, I'm Sonja! In the daytime I'm a computer science student in University of Helsinki and in the evenings I build iOS and watchOS apps. Currently I am...
-- 🌱 learning React & Node – see my progress [here](https://github.com/iosonja/fullstack-exercises)!
+Hello, I'm Sonja! Currently I am...
 - 🐍 tinkering with a [Pygame app](https://github.com/iosonja/ot-harjoitustyo) for learning International Phonetic Alphabet classification
-- 👣 looking for a mentor working in the iOS field! 
+- 🌱 learning React & Node – see my progress [here](https://github.com/iosonja/fullstack-exercises)!
 
 Hit me up on Twitter: [@iosonja](https://twitter.com/iosonja)
 
@@ -21,5 +20,4 @@ TODO:
 
 
 
-- 🐩 building an [iOS app](https://github.com/iosonja/dog-training-scheduler) for keeping track of dog training sessions
 -->
