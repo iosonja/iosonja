@@ -2,7 +2,7 @@
 
 Hello, I'm Sonja! Currently I am...
 - 🐍 tinkering with a [Pygame app](https://github.com/iosonja/ot-harjoitustyo) for learning International Phonetic Alphabet classification
-- 🌱 learning React & Node – see my progress [here](https://github.com/iosonja/fullstack-exercises)!
+- 🌱 learning React & Node
 
 Hit me up on Twitter: [@iosonja](https://twitter.com/iosonja)
 
