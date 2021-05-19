@@ -1,8 +1,8 @@
 <!-- ![Header](https://github.com/iosonja/iosonja/blob/main/ghheader.png "Header") -->
 
 Hello, I'm Sonja! Currently I am...
-- 🐍 tinkering with a [Pygame app](https://github.com/iosonja/ot-harjoitustyo) for learning International Phonetic Alphabet classification
-- 🌱 learning React & Node
+- 🐍 tinkering with a React project
+- 🌱 learning Node
 
 Hit me up on Twitter: [@iosonja](https://twitter.com/iosonja)
 
