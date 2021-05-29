@@ -1,8 +1,8 @@
 <!-- ![Header](https://github.com/iosonja/iosonja/blob/main/ghheader.png "Header") -->
 
 Hello, I'm Sonja! Currently I am...
-- 🐍 tinkering with a React project
-- 🌱 learning Node
+- 🐍 tinkering with [my personal website](https://github.com/iosonja/personal-website)
+- 🌱 learning data visualization with D3
 
 Hit me up on Twitter: [@iosonja](https://twitter.com/iosonja)
 
